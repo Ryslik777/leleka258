@@ -1,6 +1,6 @@
 {
   "name": "leleka258",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Demonstration",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ryslik777/leleka258.git"
+    "url": "https://github.com/Ryslik777/leleka258.git"
   },
   "dependencies": {
-    "tea-demonstration": "1.0.0",
+    "paket228": "1.0.3",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
